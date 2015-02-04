@@ -15,3 +15,5 @@
 //= require bootstrap
 //= require turbolinks
 //= require_tree .
+<script src="//use.typekit.net/twu0djh.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
