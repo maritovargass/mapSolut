@@ -10,9 +10,10 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
+= require jquery
+= require scrolling-nav
 //= require jquery_ujs
-//= require bootstrap
+= require bootstrap
 //= require turbolinks
 //= require_tree .
 <script src="//use.typekit.net/twu0djh.js"></script>
