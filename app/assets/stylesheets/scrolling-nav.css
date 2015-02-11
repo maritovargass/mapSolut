@@ -49,6 +49,18 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #2e3e4f;
 }
+.product-section {
+    height: auto;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+.newlisting-section {
+    height: auto;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
 
 .edit-section {
     height: 100%;
@@ -57,28 +69,34 @@ of those sections to manage the look and feel of the site. */
 }
 
 .show-section {
-    height: 100%;
+    height: auto;
     padding-top: 150px;
     background: #fff;
 }
 
 .about-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 70%;
+    padding-top: 20px;
     text-align: center;
     background: #eee;
 }
 
 .services-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 40px;
     text-align: center;
-    background: #fff;
+    background: #2e3e4f;
+}
+.contacto-section {
+    height: 70%;
+    padding-top: 40px;
+    text-align: center;
+    background: #2e3e4f;
 }
 
 .contact-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 40px;
     text-align: center;
     background: #eee;
 }
