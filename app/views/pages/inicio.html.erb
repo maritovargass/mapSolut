@@ -257,14 +257,15 @@
     </section>
 
     <!-- jQuery -->
-    <script src="javascripts/jquery.js"></script>
+     <%= javascript_include_tag 'jquery', 'data-turbolinks-track' => true %>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="javascripts/bootstrap.min.js"></script>
+    <%= javascript_include_tag 'bootstrap.min', 'data-turbolinks-track' => true %>
 
     <!-- Scrolling Nav JavaScript -->
-    <script src="javascripts/jquery.easing.min.js"></script>
-    <script src="javascripts/scrolling-nav.js"></script>
+    <%= javascript_include_tag 'jquery.easing.min', 'data-turbolinks-track' => true %>
+    <%= javascript_include_tag 'scrolling-nav.js', 'data-turbolinks-track' => true %>
+  
 
 </body>
 
