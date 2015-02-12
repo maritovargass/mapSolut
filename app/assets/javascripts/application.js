@@ -11,7 +11,7 @@
 // about supported directives.
 //
 //= require jquery
-//s= require scrolling-nav
+//= require scrolling-nav
 //= require jquery_ujs
 //= require bootstrap
 //= require turbolinks

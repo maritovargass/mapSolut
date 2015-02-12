@@ -19,6 +19,22 @@ h1 {
   background-position: right top;
   }
 
+  .bg-servicios {
+  height:100%;
+  background-image: url('services.png');
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-position: 75% 10%;;
+  }
+
+  .bg-us {
+  height:100%;
+  background-image: url('us.png');
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-position: 75% 10%;;
+  }
+
   h2{
   	text-align: left;
   	font-family: 'Oswald', sans-serif;
@@ -93,4 +109,9 @@ h9{
     font-size: 1.0em;
     color: #fff;
     text-transform: uppercase;
+  }
+
+img.icon-servicios{
+    margin-right: 90%;
+    margin-top: 10%;
   }
