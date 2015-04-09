@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'bootstrap-sass', '~> 3.3.3'
 gem "paperclip", "~> 4.2"
+gem 'sprockets', '~> 2.0'
 
 group :production do
   gem 'pg'
