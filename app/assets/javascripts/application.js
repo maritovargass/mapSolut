@@ -19,3 +19,5 @@
 //=require bootstrap
 //=require jquery
 //=require scrolling-nav
+<script src="//use.typekit.net/twu0djh.js"></script>
+ <script>try{Typekit.load();}catch(e){}</script>
