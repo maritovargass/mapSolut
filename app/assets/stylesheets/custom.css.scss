@@ -11,6 +11,10 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.text-muted{
+  color: #2e3e4f !important;
+}
+
 .bg {
 	height:100%;
   background-image: url(' http://dl.dropbox.com/s/shbhxsf4fpr08h2/bg-server.png');
@@ -69,7 +73,14 @@ h1 {
  img {
   	vertical-align: middle;
   	text-align: left;
-  	margin-right: 75%;
+
+  	
+  }
+
+  img2 {
+    vertical-align: middle;
+    text-align: left;
+    margin-right: 75% !important;
   }
  
  h7{
